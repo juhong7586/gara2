@@ -3,3 +3,5 @@
 /result/celebs : celebs.html
 /result/jobs : jobs.html
 /class : class.html
+/start : start.html
+/question : question.html
